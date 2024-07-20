@@ -6,15 +6,15 @@ Chegou a hora de colocarmos em prática toda a concepção de análise de negóc
 
 ## 🏗 Estruturação do Desafio
 
-- [DesafioIphone]([Colocar link](https://github.com/robertfdesouza/DesafioIPHONE-DIO/tree/main/DesafioIphoneDio/src/Iphone) / Pasta com projeto
-- [Diagrama de Classe - DesafioIphone](https://drive.google.com/file/d/1C55GqBK4yz94ZS6PsePb27LLz5LquUcp/view) / Diagrama de Classes.
+- [DesafioIphone - Código Java](https://github.com/robertfdesouza/DesafioIPHONE-DIO/tree/main/DesafioIphoneDio/src/Iphone) 
+- [Diagrama de Classe - DesafioIphone](https://drive.google.com/file/d/1C55GqBK4yz94ZS6PsePb27LLz5LquUcp/view) 
 
 
-- ## 📍 Instruções (Editar daqui pra frente)
+## 📲 Instruções 
 
-### Pré-Requisitos
+### 📋 Pré-Requisitos
 
-###### Comportamentos esperados:
+###### Implementação:
 * Repodutor Musicial: tocar, pausar, selecionarMusica
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
@@ -23,15 +23,15 @@ Chegou a hora de colocarmos em prática toda a concepção de análise de negóc
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   
 ## 🔗 Referências
-- Videoaulas do Bootcamp na plataforma da DIO
+- Bootcamp do Santander 2024 - Backend com Java Plataforma DIO
 
 
 ## ✅ Feedback
 
 Caso tenha algum feedback, entre em contato!
 
-<a href = "mailto:juliagonzalezmoreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/julia-gonzalez-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:robertfde.souza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/robertfdesouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<p align="center"> Desenvolvido com 💜 por Julia Gonzalez Moreira </p>
+<p align="center"> Desenvolvido por 🖥 Robert Fernandes </p>
 
