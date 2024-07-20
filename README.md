@@ -6,7 +6,7 @@ Chegou a hora de colocarmos em prática toda a concepção de análise de negóc
 
 ## 🏗 Estruturação do Desafio
 
-- [DesafioIphone]([Colocar link](https://github.com/robertfdesouza/DesafioIPHONE-DIO/tree/main/DesafioIphoneDio/src/Iphone)) / Pasta com projeto
+- [DesafioIphone]([Colocar link](https://github.com/robertfdesouza/DesafioIPHONE-DIO/tree/main/DesafioIphoneDio/src/Iphone) / Pasta com projeto
 - [Diagrama de Classe - DesafioIphone](https://drive.google.com/file/d/1C55GqBK4yz94ZS6PsePb27LLz5LquUcp/view) / Diagrama de Classes.
 
 
