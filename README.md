@@ -8,4 +8,30 @@ Chegou a hora de colocarmos em prática toda a concepção de análise de negóc
 
 - [DesafioIphone](Colocar link) / Pasta com projeto
 - [Diagrama de Classe - DesafioIphone](https://drive.google.com/file/d/1C55GqBK4yz94ZS6PsePb27LLz5LquUcp/view) / Diagrama de Classes.
-- ```README.md```  Informações do projeto.  
+- ```README.md```  Informações do projeto.
+
+- ## 📍 Instruções (Editar daqui pra frente)
+
+### Pré-Requisitos
+
+###### Comportamentos esperados:
+* Repodutor Musicial: tocar, pausar, selecionarMusica
+* Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
+* Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+
+##  🔧 Tecnologias
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  
+## 🔗 Referências
+- Videoaulas do Bootcamp na plataforma da DIO
+
+
+## ✅ Feedback
+
+Caso tenha algum feedback, entre em contato!
+
+<a href = "mailto:juliagonzalezmoreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/julia-gonzalez-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<p align="center"> Desenvolvido com 💜 por Julia Gonzalez Moreira </p>
+
