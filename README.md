@@ -6,5 +6,5 @@ Com base no vídeo de lançamento do iPhone, elabore em uma ferramenta de UML de
  <br> <br>
 
  - [DesafioIphone](Colocar link) / Pasta com projeto
-- [diagramaIphone.drawio](colocar link) / Diagrama de Classes.
+- [Diagrama de Classe - DesafioIphone](https://drive.google.com/file/d/1C55GqBK4yz94ZS6PsePb27LLz5LquUcp/view) / Diagrama de Classes.
 - ```README.md```  Informações do projeto.  
